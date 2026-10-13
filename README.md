@@ -33,14 +33,14 @@ skills sit on top of it and differ in two ways:
 **Claude Code, as a plugin:**
 
 ```
-/plugin marketplace add nck-development/angular-skills
-/plugin install angular-skills@nck-development
+/plugin marketplace add nicks-passiert/angular-skills
+/plugin install angular-skills@nicks-passiert
 ```
 
 **Any agent that reads skills, through [skills.sh](https://skills.sh/):**
 
 ```bash
-npx skills add nck-development/angular-skills
+npx skills add nicks-passiert/angular-skills
 ```
 
 **By hand:** copy the folders you want from `skills/` into `~/.claude/skills/` (all projects) or

@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "nck-development",
+  "name": "nicks-passiert",
   "description": "Angular enforcement skills for Claude Code.",
   "owner": {
     "name": "Nick Deutsch"
