@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "nck-development",
+  "description": "Angular enforcement skills for Claude Code.",
+  "owner": {
+    "name": "Nick Deutsch"
+  },
+  "plugins": [
+    {
+      "name": "angular-skills",
+      "description": "Opinionated Angular 22 enforcement skills: host element as wrapper, OnPush by version, signal forms, and date constraints in signal forms.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

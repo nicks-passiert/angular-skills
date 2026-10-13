@@ -1,0 +1,11 @@
+{
+  "name": "angular-skills",
+  "version": "1.0.0",
+  "description": "Opinionated Angular 22 enforcement skills: host element as wrapper, OnPush by version, signal forms, and date constraints in signal forms.",
+  "author": {
+    "name": "Nick Deutsch",
+    "url": "https://github.com/nicks-passiert"
+  },
+  "license": "MIT",
+  "keywords": ["angular", "signal-forms", "onpush", "code-review"]
+}
